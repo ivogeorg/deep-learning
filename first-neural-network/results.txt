@@ -1,0 +1,432 @@
+s ( 2, 0.001,    100):  99.0% ... Training loss: 1.014 ... Validation loss: 1.652
+Progress ( 2, 0.001,    500):  99.8% ... Training loss: 1.236 ... Validation loss: 1.350
+Progress ( 2, 0.001,   1000):  99.9% ... Training loss: 1.055 ... Validation loss: 1.278
+Progress ( 2, 0.001,   5000): 100.0% ... Training loss: 0.953 ... Validation loss: 1.368
+Progress ( 2, 0.001,  10000): 100.0% ... Training loss: 0.961 ... Validation loss: 1.309
+Progress ( 2, 0.001,  50000): 100.0% ... Training loss: 0.510 ... Validation loss: 0.837
+Progress ( 2, 0.001, 100000): 100.0% ... Training loss: 0.306 ... Validation loss: 0.495
+Progress ( 2, 0.001, 500000): 100.0% ... Training loss: 0.220 ... Validation loss: 0.372
+Progress ( 2, 0.005,    100):  99.0% ... Training loss: 1.048 ... Validation loss: 1.274
+Progress ( 2, 0.005,    500):  99.8% ... Training loss: 0.979 ... Validation loss: 1.333
+Progress ( 2, 0.005,   1000):  99.9% ... Training loss: 0.973 ... Validation loss: 1.387
+Progress ( 2, 0.005,   5000): 100.0% ... Training loss: 0.659 ... Validation loss: 1.097
+Progress ( 2, 0.005,  10000): 100.0% ... Training loss: 0.569 ... Validation loss: 0.972
+Progress ( 2, 0.005,  50000): 100.0% ... Training loss: 0.268 ... Validation loss: 0.440
+Progress ( 2, 0.005, 100000): 100.0% ... Training loss: 0.236 ... Validation loss: 0.400
+Progress ( 2, 0.005, 500000): 100.0% ... Training loss: 0.161 ... Validation loss: 0.305
+Progress ( 2, 0.010,    100):  99.0% ... Training loss: 0.952 ... Validation loss: 1.467
+Progress ( 2, 0.010,    500):  99.8% ... Training loss: 0.654 ... Validation loss: 1.068
+Progress ( 2, 0.010,   1000):  99.9% ... Training loss: 0.875 ... Validation loss: 1.342
+Progress ( 2, 0.010,   5000): 100.0% ... Training loss: 0.486 ... Validation loss: 0.796
+Progress ( 2, 0.010,  10000): 100.0% ... Training loss: 0.367 ... Validation loss: 0.608
+Progress ( 2, 0.010,  50000): 100.0% ... Training loss: 0.247 ... Validation loss: 0.409
+Progress ( 2, 0.010, 100000): 100.0% ... Training loss: 0.220 ... Validation loss: 0.375
+Progress ( 2, 0.010, 500000): 100.0% ... Training loss: 0.127 ... Validation loss: 0.232
+Progress ( 2, 0.050,    100):  99.0% ... Training loss: 0.937 ... Validation loss: 1.316
+Progress ( 2, 0.050,    500):  99.8% ... Training loss: 0.554 ... Validation loss: 0.903
+Progress ( 2, 0.050,   1000):  99.9% ... Training loss: 0.436 ... Validation loss: 0.701
+Progress ( 2, 0.050,   5000): 100.0% ... Training loss: 0.259 ... Validation loss: 0.425
+Progress ( 2, 0.050,  10000): 100.0% ... Training loss: 0.244 ... Validation loss: 0.403
+Progress ( 2, 0.050,  50000): 100.0% ... Training loss: 0.182 ... Validation loss: 0.279
+Progress ( 2, 0.050, 100000): 100.0% ... Training loss: 0.136 ... Validation loss: 0.257
+Progress ( 2, 0.050, 500000): 100.0% ... Training loss: 0.136 ... Validation loss: 0.248
+Progress ( 2, 0.100,    100):  99.0% ... Training loss: 0.852 ... Validation loss: 1.320
+Progress ( 2, 0.100,    500):  99.8% ... Training loss: 0.441 ... Validation loss: 0.714
+Progress ( 2, 0.100,   1000):  99.9% ... Training loss: 0.313 ... Validation loss: 0.504
+Progress ( 2, 0.100,   5000): 100.0% ... Training loss: 0.236 ... Validation loss: 0.394
+Progress ( 2, 0.100,  10000): 100.0% ... Training loss: 0.221 ... Validation loss: 0.385
+Progress ( 2, 0.100,  50000): 100.0% ... Training loss: 0.132 ... Validation loss: 0.237
+Progress ( 2, 0.100, 100000): 100.0% ... Training loss: 0.093 ... Validation loss: 0.175
+Progress ( 2, 0.100, 500000): 100.0% ... Training loss: 0.116 ... Validation loss: 0.215
+Progress ( 2, 0.500,    100):  99.0% ... Training loss: 0.445 ... Validation loss: 0.717
+Progress ( 2, 0.500,    500):  99.8% ... Training loss: 0.262 ... Validation loss: 0.428
+Progress ( 2, 0.500,   1000):  99.9% ... Training loss: 0.215 ... Validation loss: 0.356
+Progress ( 2, 0.500,   5000): 100.0% ... Training loss: 0.176 ... Validation loss: 0.332
+Progress ( 2, 0.500,  10000): 100.0% ... Training loss: 0.141 ... Validation loss: 0.250
+Progress ( 2, 0.500,  50000): 100.0% ... Training loss: 0.132 ... Validation loss: 0.246
+Progress ( 2, 0.500, 100000): 100.0% ... Training loss: 0.132 ... Validation loss: 0.230
+Progress ( 2, 0.500, 500000): 100.0% ... Training loss: 0.139 ... Validation loss: 0.260
+Progress ( 3, 0.001,    100):  99.0% ... Training loss: 1.234 ... Validation loss: 1.949
+Progress ( 3, 0.001,    500):  99.8% ... Training loss: 0.950 ... Validation loss: 1.418
+Progress ( 3, 0.001,   1000):  99.9% ... Training loss: 1.007 ... Validation loss: 1.602
+Progress ( 3, 0.001,   5000): 100.0% ... Training loss: 0.903 ... Validation loss: 1.350
+Progress ( 3, 0.001,  10000): 100.0% ... Training loss: 0.791 ... Validation loss: 1.247
+Progress ( 3, 0.001,  50000): 100.0% ... Training loss: 0.475 ... Validation loss: 0.777
+Progress ( 3, 0.001, 100000): 100.0% ... Training loss: 0.320 ... Validation loss: 0.516
+Progress ( 3, 0.001, 500000): 100.0% ... Training loss: 0.236 ... Validation loss: 0.403
+Progress ( 3, 0.005,    100):  99.0% ... Training loss: 0.989 ... Validation loss: 1.695
+Progress ( 3, 0.005,    500):  99.8% ... Training loss: 0.962 ... Validation loss: 1.320
+Progress ( 3, 0.005,   1000):  99.9% ... Training loss: 0.729 ... Validation loss: 1.238
+Progress ( 3, 0.005,   5000): 100.0% ... Training loss: 0.585 ... Validation loss: 1.012
+Progress ( 3, 0.005,  10000): 100.0% ... Training loss: 0.525 ... Validation loss: 0.883
+Progress ( 3, 0.005,  50000): 100.0% ... Training loss: 0.264 ... Validation loss: 0.430
+Progress ( 3, 0.005, 100000): 100.0% ... Training loss: 0.240 ... Validation loss: 0.407
+Progress ( 3, 0.005, 500000): 100.0% ... Training loss: 0.078 ... Validation loss: 0.164
+Progress ( 3, 0.010,    100):  99.0% ... Training loss: 0.909 ... Validation loss: 1.388
+Progress ( 3, 0.010,    500):  99.8% ... Training loss: 0.927 ... Validation loss: 1.340
+Progress ( 3, 0.010,   1000):  99.9% ... Training loss: 0.673 ... Validation loss: 1.124
+Progress ( 3, 0.010,   5000): 100.0% ... Training loss: 0.522 ... Validation loss: 0.869
+Progress ( 3, 0.010,  10000): 100.0% ... Training loss: 0.308 ... Validation loss: 0.493
+Progress ( 3, 0.010,  50000): 100.0% ... Training loss: 0.226 ... Validation loss: 0.404
+Progress ( 3, 0.010, 100000): 100.0% ... Training loss: 0.197 ... Validation loss: 0.343
+Progress ( 3, 0.010, 500000): 100.0% ... Training loss: 0.080 ... Validation loss: 0.165
+Progress ( 3, 0.050,    100):  99.0% ... Training loss: 0.755 ... Validation loss: 1.255
+Progress ( 3, 0.050,    500):  99.8% ... Training loss: 0.639 ... Validation loss: 1.081
+Progress ( 3, 0.050,   1000):  99.9% ... Training loss: 0.390 ... Validation loss: 0.645
+Progress ( 3, 0.050,   5000): 100.0% ... Training loss: 0.258 ... Validation loss: 0.422
+Progress ( 3, 0.050,  10000): 100.0% ... Training loss: 0.234 ... Validation loss: 0.394
+Progress ( 3, 0.050,  50000): 100.0% ... Training loss: 0.085 ... Validation loss: 0.168
+Progress ( 3, 0.050, 100000): 100.0% ... Training loss: 0.080 ... Validation loss: 0.168
+Progress ( 3, 0.050, 500000): 100.0% ... Training loss: 0.068 ... Validation loss: 0.138
+Progress ( 3, 0.100,    100):  99.0% ... Training loss: 0.855 ... Validation loss: 1.360
+Progress ( 3, 0.100,    500):  99.8% ... Training loss: 0.475 ... Validation loss: 0.778
+Progress ( 3, 0.100,   1000):  99.9% ... Training loss: 0.303 ... Validation loss: 0.484
+Progress ( 3, 0.100,   5000): 100.0% ... Training loss: 0.237 ... Validation loss: 0.400
+Progress ( 3, 0.100,  10000): 100.0% ... Training loss: 0.180 ... Validation loss: 0.329
+Progress ( 3, 0.100,  50000): 100.0% ... Training loss: 0.065 ... Validation loss: 0.138
+Progress ( 3, 0.100, 100000): 100.0% ... Training loss: 0.062 ... Validation loss: 0.130
+Progress ( 3, 0.100, 500000): 100.0% ... Training loss: 0.067 ... Validation loss: 0.138
+Progress ( 3, 0.500,    100):  99.0% ... Training loss: 0.453 ... Validation loss: 0.742
+Progress ( 3, 0.500,    500):  99.8% ... Training loss: 0.263 ... Validation loss: 0.428
+Progress ( 3, 0.500,   1000):  99.9% ... Training loss: 0.246 ... Validation loss: 0.417
+Progress ( 3, 0.500,   5000): 100.0% ... Training loss: 0.093 ... Validation loss: 0.173
+Progress ( 3, 0.500,  10000): 100.0% ... Training loss: 0.077 ... Validation loss: 0.167
+Progress ( 3, 0.500,  50000): 100.0% ... Training loss: 0.072 ... Validation loss: 0.145
+Progress ( 3, 0.500, 100000): 100.0% ... Training loss: 0.063 ... Validation loss: 0.135
+Progress ( 3, 0.500, 500000): 100.0% ... Training loss: 0.076 ... Validation loss: 0.151
+Progress ( 4, 0.001,    100):  99.0% ... Training loss: 1.100 ... Validation loss: 1.632
+Progress ( 4, 0.001,    500):  99.8% ... Training loss: 1.135 ... Validation loss: 1.304
+Progress ( 4, 0.001,   1000):  99.9% ... Training loss: 0.904 ... Validation loss: 1.295
+Progress ( 4, 0.001,   5000): 100.0% ... Training loss: 0.821 ... Validation loss: 1.241
+Progress ( 4, 0.001,  10000): 100.0% ... Training loss: 0.726 ... Validation loss: 1.241
+Progress ( 4, 0.001,  50000): 100.0% ... Training loss: 0.479 ... Validation loss: 0.787
+Progress ( 4, 0.001, 100000): 100.0% ... Training loss: 0.306 ... Validation loss: 0.502
+Progress ( 4, 0.001, 500000): 100.0% ... Training loss: 0.228 ... Validation loss: 0.397
+Progress ( 4, 0.005,    100):  99.0% ... Training loss: 1.175 ... Validation loss: 1.364
+Progress ( 4, 0.005,    500):  99.8% ... Training loss: 0.812 ... Validation loss: 1.331
+Progress ( 4, 0.005,   1000):  99.9% ... Training loss: 0.888 ... Validation loss: 1.263
+Progress ( 4, 0.005,   5000): 100.0% ... Training loss: 0.606 ... Validation loss: 1.069
+Progress ( 4, 0.005,  10000): 100.0% ... Training loss: 0.486 ... Validation loss: 0.787
+Progress ( 4, 0.005,  50000): 100.0% ... Training loss: 0.259 ... Validation loss: 0.437
+Progress ( 4, 0.005, 100000): 100.0% ... Training loss: 0.235 ... Validation loss: 0.386
+Progress ( 4, 0.005, 500000): 100.0% ... Training loss: 0.062 ... Validation loss: 0.139
+Progress ( 4, 0.010,    100):  99.0% ... Training loss: 0.970 ... Validation loss: 1.530
+Progress ( 4, 0.010,    500):  99.8% ... Training loss: 0.786 ... Validation loss: 1.272
+Progress ( 4, 0.010,   1000):  99.9% ... Training loss: 0.683 ... Validation loss: 1.125
+Progress ( 4, 0.010,   5000): 100.0% ... Training loss: 0.405 ... Validation loss: 0.658
+Progress ( 4, 0.010,  10000): 100.0% ... Training loss: 0.309 ... Validation loss: 0.500
+Progress ( 4, 0.010,  50000): 100.0% ... Training loss: 0.218 ... Validation loss: 0.378
+Progress ( 4, 0.010, 100000): 100.0% ... Training loss: 0.102 ... Validation loss: 0.221
+Progress ( 4, 0.010, 500000): 100.0% ... Training loss: 0.077 ... Validation loss: 0.162
+Progress ( 4, 0.050,    100):  99.0% ... Training loss: 0.867 ... Validation loss: 1.333
+Progress ( 4, 0.050,    500):  99.8% ... Training loss: 0.622 ... Validation loss: 1.102
+Progress ( 4, 0.050,   1000):  99.9% ... Training loss: 0.475 ... Validation loss: 0.770
+Progress ( 4, 0.050,   5000): 100.0% ... Training loss: 0.250 ... Validation loss: 0.411
+Progress ( 4, 0.050,  10000): 100.0% ... Training loss: 0.217 ... Validation loss: 0.374
+Progress ( 4, 0.050,  50000): 100.0% ... Training loss: 0.074 ... Validation loss: 0.154
+Progress ( 4, 0.050, 100000): 100.0% ... Training loss: 0.076 ... Validation loss: 0.164
+Progress ( 4, 0.050, 500000): 100.0% ... Training loss: 0.066 ... Validation loss: 0.148
+Progress ( 4, 0.100,    100):  99.0% ... Training loss: 0.689 ... Validation loss: 1.209
+Progress ( 4, 0.100,    500):  99.8% ... Training loss: 0.438 ... Validation loss: 0.715
+Progress ( 4, 0.100,   1000):  99.9% ... Training loss: 0.303 ... Validation loss: 0.482
+Progress ( 4, 0.100,   5000): 100.0% ... Training loss: 0.216 ... Validation loss: 0.374
+Progress ( 4, 0.100,  10000): 100.0% ... Training loss: 0.114 ... Validation loss: 0.220
+Progress ( 4, 0.100,  50000): 100.0% ... Training loss: 0.063 ... Validation loss: 0.169
+Progress ( 4, 0.100, 100000): 100.0% ... Training loss: 0.061 ... Validation loss: 0.134
+Progress ( 4, 0.100, 500000): 100.0% ... Training loss: 0.056 ... Validation loss: 0.139
+Progress ( 4, 0.500,    100):  99.0% ... Training loss: 0.387 ... Validation loss: 0.627
+Progress ( 4, 0.500,    500):  99.8% ... Training loss: 0.261 ... Validation loss: 0.434
+Progress ( 4, 0.500,   1000):  99.9% ... Training loss: 0.241 ... Validation loss: 0.408
+Progress ( 4, 0.500,   5000): 100.0% ... Training loss: 0.075 ... Validation loss: 0.172
+Progress ( 4, 0.500,  10000): 100.0% ... Training loss: 0.062 ... Validation loss: 0.149
+Progress ( 4, 0.500,  50000): 100.0% ... Training loss: 0.059 ... Validation loss: 0.176
+Progress ( 4, 0.500, 100000): 100.0% ... Training loss: 0.056 ... Validation loss: 0.173
+Progress ( 4, 0.500, 500000): 100.0% ... Training loss: 0.061 ... Validation loss: 0.170
+Progress ( 5, 0.001,    100):  99.0% ... Training loss: 1.057 ... Validation loss: 1.612
+Progress ( 5, 0.001,    500):  99.8% ... Training loss: 0.990 ... Validation loss: 1.437
+Progress ( 5, 0.001,   1000):  99.9% ... Training loss: 0.982 ... Validation loss: 1.427
+Progress ( 5, 0.001,   5000): 100.0% ... Training loss: 0.789 ... Validation loss: 1.279
+Progress ( 5, 0.001,  10000): 100.0% ... Training loss: 0.620 ... Validation loss: 1.059
+Progress ( 5, 0.001,  50000): 100.0% ... Training loss: 0.451 ... Validation loss: 0.739
+Progress ( 5, 0.001, 100000): 100.0% ... Training loss: 0.310 ... Validation loss: 0.492
+Progress ( 5, 0.001, 500000): 100.0% ... Training loss: 0.241 ... Validation loss: 0.400
+Progress ( 5, 0.005,    100):  99.0% ... Training loss: 1.019 ... Validation loss: 1.542
+Progress ( 5, 0.005,    500):  99.8% ... Training loss: 0.950 ... Validation loss: 1.338
+Progress ( 5, 0.005,   1000):  99.9% ... Training loss: 0.726 ... Validation loss: 1.235
+Progress ( 5, 0.005,   5000): 100.0% ... Training loss: 0.581 ... Validation loss: 0.993
+Progress ( 5, 0.005,  10000): 100.0% ... Training loss: 0.444 ... Validation loss: 0.745
+Progress ( 5, 0.005,  50000): 100.0% ... Training loss: 0.260 ... Validation loss: 0.425
+Progress ( 5, 0.005, 100000): 100.0% ... Training loss: 0.214 ... Validation loss: 0.380
+Progress ( 5, 0.005, 500000): 100.0% ... Training loss: 0.070 ... Validation loss: 0.188
+Progress ( 5, 0.010,    100):  99.0% ... Training loss: 0.906 ... Validation loss: 1.369
+Progress ( 5, 0.010,    500):  99.8% ... Training loss: 0.828 ... Validation loss: 1.307
+Progress ( 5, 0.010,   1000):  99.9% ... Training loss: 0.732 ... Validation loss: 1.276
+Progress ( 5, 0.010,   5000): 100.0% ... Training loss: 0.445 ... Validation loss: 0.733
+Progress ( 5, 0.010,  10000): 100.0% ... Training loss: 0.306 ... Validation loss: 0.488
+Progress ( 5, 0.010,  50000): 100.0% ... Training loss: 0.243 ... Validation loss: 0.404
+Progress ( 5, 0.010, 100000): 100.0% ... Training loss: 0.107 ... Validation loss: 0.208
+Progress ( 5, 0.010, 500000): 100.0% ... Training loss: 0.056 ... Validation loss: 0.146
+Progress ( 5, 0.050,    100):  99.0% ... Training loss: 0.940 ... Validation loss: 1.346
+Progress ( 5, 0.050,    500):  99.8% ... Training loss: 0.606 ... Validation loss: 1.007
+Progress ( 5, 0.050,   1000):  99.9% ... Training loss: 0.473 ... Validation loss: 0.775
+Progress ( 5, 0.050,   5000): 100.0% ... Training loss: 0.257 ... Validation loss: 0.421
+Progress ( 5, 0.050,  10000): 100.0% ... Training loss: 0.199 ... Validation loss: 0.354
+Progress ( 5, 0.050,  50000): 100.0% ... Training loss: 0.063 ... Validation loss: 0.162
+Progress ( 5, 0.050, 100000): 100.0% ... Training loss: 0.058 ... Validation loss: 0.153
+Progress ( 5, 0.050, 500000): 100.0% ... Training loss: 0.052 ... Validation loss: 0.143
+Progress ( 5, 0.100,    100):  99.0% ... Training loss: 0.742 ... Validation loss: 1.201
+Progress ( 5, 0.100,    500):  99.8% ... Training loss: 0.435 ... Validation loss: 0.715
+Progress ( 5, 0.100,   1000):  99.9% ... Training loss: 0.305 ... Validation loss: 0.484
+Progress ( 5, 0.100,   5000): 100.0% ... Training loss: 0.211 ... Validation loss: 0.377
+Progress ( 5, 0.100,  10000): 100.0% ... Training loss: 0.119 ... Validation loss: 0.243
+Progress ( 5, 0.100,  50000): 100.0% ... Training loss: 0.061 ... Validation loss: 0.143
+Progress ( 5, 0.100, 100000): 100.0% ... Training loss: 0.056 ... Validation loss: 0.150
+Progress ( 5, 0.100, 500000): 100.0% ... Training loss: 0.051 ... Validation loss: 0.152
+Progress ( 5, 0.500,    100):  99.0% ... Training loss: 0.414 ... Validation loss: 0.696
+Progress ( 5, 0.500,    500):  99.8% ... Training loss: 0.270 ... Validation loss: 0.455
+Progress ( 5, 0.500,   1000):  99.9% ... Training loss: 0.253 ... Validation loss: 0.428
+Progress ( 5, 0.500,   5000): 100.0% ... Training loss: 0.071 ... Validation loss: 0.169
+Progress ( 5, 0.500,  10000): 100.0% ... Training loss: 0.061 ... Validation loss: 0.159
+Progress ( 5, 0.500,  50000): 100.0% ... Training loss: 0.055 ... Validation loss: 0.165
+Progress ( 5, 0.500, 100000): 100.0% ... Training loss: 0.053 ... Validation loss: 0.206
+Progress ( 5, 0.500, 500000): 100.0% ... Training loss: 0.052 ... Validation loss: 0.234
+Progress ( 6, 0.001,    100):  99.0% ... Training loss: 1.017 ... Validation loss: 1.410
+Progress ( 6, 0.001,    500):  99.8% ... Training loss: 0.939 ... Validation loss: 1.232
+Progress ( 6, 0.001,   1000):  99.9% ... Training loss: 0.955 ... Validation loss: 1.460
+Progress ( 6, 0.001,   5000): 100.0% ... Training loss: 0.778 ... Validation loss: 1.314
+Progress ( 6, 0.001,  10000): 100.0% ... Training loss: 0.659 ... Validation loss: 1.133
+Progress ( 6, 0.001,  50000): 100.0% ... Training loss: 0.427 ... Validation loss: 0.705
+Progress ( 6, 0.001, 100000): 100.0% ... Training loss: 0.305 ... Validation loss: 0.488
+Progress ( 6, 0.001, 500000): 100.0% ... Training loss: 0.255 ... Validation loss: 0.428
+Progress ( 6, 0.005,    100):  99.0% ... Training loss: 1.158 ... Validation loss: 1.310
+Progress ( 6, 0.005,    500):  99.8% ... Training loss: 0.878 ... Validation loss: 1.315
+Progress ( 6, 0.005,   1000):  99.9% ... Training loss: 0.724 ... Validation loss: 1.180
+Progress ( 6, 0.005,   5000): 100.0% ... Training loss: 0.611 ... Validation loss: 1.080
+Progress ( 6, 0.005,  10000): 100.0% ... Training loss: 0.458 ... Validation loss: 0.747
+Progress ( 6, 0.005,  50000): 100.0% ... Training loss: 0.263 ... Validation loss: 0.438
+Progress ( 6, 0.005, 100000): 100.0% ... Training loss: 0.238 ... Validation loss: 0.406
+Progress ( 6, 0.005, 500000): 100.0% ... Training loss: 0.071 ... Validation loss: 0.159
+Progress ( 6, 0.010,    100):  99.0% ... Training loss: 0.953 ... Validation loss: 1.400
+Progress ( 6, 0.010,    500):  99.8% ... Training loss: 0.746 ... Validation loss: 1.337
+Progress ( 6, 0.010,   1000):  99.9% ... Training loss: 0.704 ... Validation loss: 1.169
+Progress ( 6, 0.010,   5000): 100.0% ... Training loss: 0.457 ... Validation loss: 0.745
+Progress ( 6, 0.010,  10000): 100.0% ... Training loss: 0.306 ... Validation loss: 0.489
+Progress ( 6, 0.010,  50000): 100.0% ... Training loss: 0.230 ... Validation loss: 0.390
+Progress ( 6, 0.010, 100000): 100.0% ... Training loss: 0.179 ... Validation loss: 0.321
+Progress ( 6, 0.010, 500000): 100.0% ... Training loss: 0.072 ... Validation loss: 0.163
+Progress ( 6, 0.050,    100):  99.0% ... Training loss: 0.819 ... Validation loss: 1.250
+Progress ( 6, 0.050,    500):  99.8% ... Training loss: 0.605 ... Validation loss: 1.020
+Progress ( 6, 0.050,   1000):  99.9% ... Training loss: 0.469 ... Validation loss: 0.778
+Progress ( 6, 0.050,   5000): 100.0% ... Training loss: 0.263 ... Validation loss: 0.434
+Progress ( 6, 0.050,  10000): 100.0% ... Training loss: 0.226 ... Validation loss: 0.380
+Progress ( 6, 0.050,  50000): 100.0% ... Training loss: 0.073 ... Validation loss: 0.167
+Progress ( 6, 0.050, 100000): 100.0% ... Training loss: 0.059 ... Validation loss: 0.146
+Progress ( 6, 0.050, 500000): 100.0% ... Training loss: 0.052 ... Validation loss: 0.208
+Progress ( 6, 0.100,    100):  99.0% ... Training loss: 0.756 ... Validation loss: 1.247
+Progress ( 6, 0.100,    500):  99.8% ... Training loss: 0.441 ... Validation loss: 0.739
+Progress ( 6, 0.100,   1000):  99.9% ... Training loss: 0.317 ... Validation loss: 0.499
+Progress ( 6, 0.100,   5000): 100.0% ... Training loss: 0.229 ... Validation loss: 0.395
+Progress ( 6, 0.100,  10000): 100.0% ... Training loss: 0.103 ... Validation loss: 0.199
+Progress ( 6, 0.100,  50000): 100.0% ... Training loss: 0.056 ... Validation loss: 0.174
+Progress ( 6, 0.100, 100000): 100.0% ... Training loss: 0.055 ... Validation loss: 0.155
+Progress ( 6, 0.100, 500000): 100.0% ... Training loss: 0.049 ... Validation loss: 0.331
+Progress ( 6, 0.500,    100):  99.0% ... Training loss: 0.476 ... Validation loss: 0.782
+Progress ( 6, 0.500,    500):  99.8% ... Training loss: 0.261 ... Validation loss: 0.436
+Progress ( 6, 0.500,   1000):  99.9% ... Training loss: 0.221 ... Validation loss: 0.378
+Progress ( 6, 0.500,   5000): 100.0% ... Training loss: 0.063 ... Validation loss: 0.158
+Progress ( 6, 0.500,  10000): 100.0% ... Training loss: 0.079 ... Validation loss: 0.160
+Progress ( 6, 0.500,  50000): 100.0% ... Training loss: 0.053 ... Validation loss: 0.216
+Progress ( 6, 0.500, 100000): 100.0% ... Training loss: 0.050 ... Validation loss: 0.167
+Progress ( 6, 0.500, 500000): 100.0% ... Training loss: 0.050 ... Validation loss: 0.210
+Progress ( 7, 0.001,    100):  99.0% ... Training loss: 1.110 ... Validation loss: 1.262
+Progress ( 7, 0.001,    500):  99.8% ... Training loss: 0.955 ... Validation loss: 1.517
+Progress ( 7, 0.001,   1000):  99.9% ... Training loss: 0.894 ... Validation loss: 1.341
+Progress ( 7, 0.001,   5000): 100.0% ... Training loss: 0.815 ... Validation loss: 1.324
+Progress ( 7, 0.001,  10000): 100.0% ... Training loss: 0.880 ... Validation loss: 1.304
+Progress ( 7, 0.001,  50000): 100.0% ... Training loss: 0.426 ... Validation loss: 0.697
+Progress ( 7, 0.001, 100000): 100.0% ... Training loss: 0.312 ... Validation loss: 0.499
+Progress ( 7, 0.001, 500000): 100.0% ... Training loss: 0.233 ... Validation loss: 0.391
+Progress ( 7, 0.005,    100):  99.0% ... Training loss: 0.956 ... Validation loss: 1.340
+Progress ( 7, 0.005,    500):  99.8% ... Training loss: 0.887 ... Validation loss: 1.318
+Progress ( 7, 0.005,   1000):  99.9% ... Training loss: 0.816 ... Validation loss: 1.279
+Progress ( 7, 0.005,   5000): 100.0% ... Training loss: 0.591 ... Validation loss: 1.073
+Progress ( 7, 0.005,  10000): 100.0% ... Training loss: 0.446 ... Validation loss: 0.726
+Progress ( 7, 0.005,  50000): 100.0% ... Training loss: 0.264 ... Validation loss: 0.434
+Progress ( 7, 0.005, 100000): 100.0% ... Training loss: 0.230 ... Validation loss: 0.394
+Progress ( 7, 0.005, 500000): 100.0% ... Training loss: 0.063 ... Validation loss: 0.164
+Progress ( 7, 0.010,    100):  99.0% ... Training loss: 0.973 ... Validation loss: 1.348
+Progress ( 7, 0.010,    500):  99.8% ... Training loss: 0.808 ... Validation loss: 1.251
+Progress ( 7, 0.010,   1000):  99.9% ... Training loss: 0.673 ... Validation loss: 1.167
+Progress ( 7, 0.010,   5000): 100.0% ... Training loss: 0.478 ... Validation loss: 0.779
+Progress ( 7, 0.010,  10000): 100.0% ... Training loss: 0.299 ... Validation loss: 0.473
+Progress ( 7, 0.010,  50000): 100.0% ... Training loss: 0.245 ... Validation loss: 0.416
+Progress ( 7, 0.010, 100000): 100.0% ... Training loss: 0.147 ... Validation loss: 0.283
+Progress ( 7, 0.010, 500000): 100.0% ... Training loss: 0.053 ... Validation loss: 0.154
+Progress ( 7, 0.050,    100):  99.0% ... Training loss: 0.877 ... Validation loss: 1.357
+Progress ( 7, 0.050,    500):  99.8% ... Training loss: 0.593 ... Validation loss: 1.024
+Progress ( 7, 0.050,   1000):  99.9% ... Training loss: 0.423 ... Validation loss: 0.695
+Progress ( 7, 0.050,   5000): 100.0% ... Training loss: 0.268 ... Validation loss: 0.451
+Progress ( 7, 0.050,  10000): 100.0% ... Training loss: 0.235 ... Validation loss: 0.399
+Progress ( 7, 0.050,  50000): 100.0% ... Training loss: 0.064 ... Validation loss: 0.166
+Progress ( 7, 0.050, 100000): 100.0% ... Training loss: 0.056 ... Validation loss: 0.194
+Progress ( 7, 0.050, 500000): 100.0% ... Training loss: 0.046 ... Validation loss: 0.221
+Progress ( 7, 0.100,    100):  99.0% ... Training loss: 0.748 ... Validation loss: 1.259
+Progress ( 7, 0.100,    500):  99.8% ... Training loss: 0.439 ... Validation loss: 0.713
+Progress ( 7, 0.100,   1000):  99.9% ... Training loss: 0.306 ... Validation loss: 0.487
+Progress ( 7, 0.100,   5000): 100.0% ... Training loss: 0.232 ... Validation loss: 0.416
+Progress ( 7, 0.100,  10000): 100.0% ... Training loss: 0.156 ... Validation loss: 0.301
+Progress ( 7, 0.100,  50000): 100.0% ... Training loss: 0.054 ... Validation loss: 0.142
+Progress ( 7, 0.100, 100000): 100.0% ... Training loss: 0.053 ... Validation loss: 0.191
+Progress ( 7, 0.100, 500000): 100.0% ... Training loss: 0.048 ... Validation loss: 0.168
+Progress ( 7, 0.500,    100):  99.0% ... Training loss: 0.435 ... Validation loss: 0.692
+Progress ( 7, 0.500,    500):  99.8% ... Training loss: 0.281 ... Validation loss: 0.440
+Progress ( 7, 0.500,   1000):  99.9% ... Training loss: 0.224 ... Validation loss: 0.377
+Progress ( 7, 0.500,   5000): 100.0% ... Training loss: 0.065 ... Validation loss: 0.147
+Progress ( 7, 0.500,  10000): 100.0% ... Training loss: 0.066 ... Validation loss: 0.145
+Progress ( 7, 0.500,  50000): 100.0% ... Training loss: 0.051 ... Validation loss: 0.176
+Progress ( 7, 0.500, 100000): 100.0% ... Training loss: 0.053 ... Validation loss: 0.178
+Progress ( 7, 0.500, 500000): 100.0% ... Training loss: 0.044 ... Validation loss: 0.199
+Progress ( 8, 0.001,    100):  99.0% ... Training loss: 0.974 ... Validation loss: 1.364
+Progress ( 8, 0.001,    500):  99.8% ... Training loss: 0.998 ... Validation loss: 1.306
+Progress ( 8, 0.001,   1000):  99.9% ... Training loss: 0.896 ... Validation loss: 1.303
+Progress ( 8, 0.001,   5000): 100.0% ... Training loss: 0.797 ... Validation loss: 1.322
+Progress ( 8, 0.001,  10000): 100.0% ... Training loss: 0.688 ... Validation loss: 1.203
+Progress ( 8, 0.001,  50000): 100.0% ... Training loss: 0.453 ... Validation loss: 0.743
+Progress ( 8, 0.001, 100000): 100.0% ... Training loss: 0.322 ... Validation loss: 0.514
+Progress ( 8, 0.001, 500000): 100.0% ... Training loss: 0.231 ... Validation loss: 0.390
+Progress ( 8, 0.005,    100):  99.0% ... Training loss: 1.040 ... Validation loss: 1.575
+Progress ( 8, 0.005,    500):  99.8% ... Training loss: 0.841 ... Validation loss: 1.295
+Progress ( 8, 0.005,   1000):  99.9% ... Training loss: 0.801 ... Validation loss: 1.298
+Progress ( 8, 0.005,   5000): 100.0% ... Training loss: 0.589 ... Validation loss: 1.035
+Progress ( 8, 0.005,  10000): 100.0% ... Training loss: 0.437 ... Validation loss: 0.711
+Progress ( 8, 0.005,  50000): 100.0% ... Training loss: 0.265 ... Validation loss: 0.441
+Progress ( 8, 0.005, 100000): 100.0% ... Training loss: 0.223 ... Validation loss: 0.391
+Progress ( 8, 0.005, 500000): 100.0% ... Training loss: 0.058 ... Validation loss: 0.152
+Progress ( 8, 0.010,    100):  99.0% ... Training loss: 0.944 ... Validation loss: 1.382
+Progress ( 8, 0.010,    500):  99.8% ... Training loss: 0.872 ... Validation loss: 1.320
+Progress ( 8, 0.010,   1000):  99.9% ... Training loss: 0.773 ... Validation loss: 1.252
+Progress ( 8, 0.010,   5000): 100.0% ... Training loss: 0.455 ... Validation loss: 0.751
+Progress ( 8, 0.010,  10000): 100.0% ... Training loss: 0.306 ... Validation loss: 0.492
+Progress ( 8, 0.010,  50000): 100.0% ... Training loss: 0.203 ... Validation loss: 0.350
+Progress ( 8, 0.010, 100000): 100.0% ... Training loss: 0.169 ... Validation loss: 0.336
+Progress ( 8, 0.010, 500000): 100.0% ... Training loss: 0.051 ... Validation loss: 0.147
+Progress ( 8, 0.050,    100):  99.0% ... Training loss: 0.794 ... Validation loss: 1.227
+Progress ( 8, 0.050,    500):  99.8% ... Training loss: 0.594 ... Validation loss: 1.026
+Progress ( 8, 0.050,   1000):  99.9% ... Training loss: 0.411 ... Validation loss: 0.675
+Progress ( 8, 0.050,   5000): 100.0% ... Training loss: 0.261 ... Validation loss: 0.428
+Progress ( 8, 0.050,  10000): 100.0% ... Training loss: 0.232 ... Validation loss: 0.395
+Progress ( 8, 0.050,  50000): 100.0% ... Training loss: 0.067 ... Validation loss: 0.184
+Progress ( 8, 0.050, 100000): 100.0% ... Training loss: 0.053 ... Validation loss: 0.162
+Progress ( 8, 0.050, 500000): 100.0% ... Training loss: 0.047 ... Validation loss: 0.199
+Progress ( 8, 0.100,    100):  99.0% ... Training loss: 0.747 ... Validation loss: 1.282
+Progress ( 8, 0.100,    500):  99.8% ... Training loss: 0.484 ... Validation loss: 0.797
+Progress ( 8, 0.100,   1000):  99.9% ... Training loss: 0.312 ... Validation loss: 0.490
+Progress ( 8, 0.100,   5000): 100.0% ... Training loss: 0.241 ... Validation loss: 0.409
+Progress ( 8, 0.100,  10000): 100.0% ... Training loss: 0.164 ... Validation loss: 0.305
+Progress ( 8, 0.100,  50000): 100.0% ... Training loss: 0.061 ... Validation loss: 0.171
+Progress ( 8, 0.100, 100000): 100.0% ... Training loss: 0.049 ... Validation loss: 0.156
+Progress ( 8, 0.100, 500000): 100.0% ... Training loss: 0.046 ... Validation loss: 0.150
+Progress ( 8, 0.500,    100):  99.0% ... Training loss: 0.465 ... Validation loss: 0.723
+Progress ( 8, 0.500,    500):  99.8% ... Training loss: 0.265 ... Validation loss: 0.429
+Progress ( 8, 0.500,   1000):  99.9% ... Training loss: 0.242 ... Validation loss: 0.411
+Progress ( 8, 0.500,   5000): 100.0% ... Training loss: 0.071 ... Validation loss: 0.149
+Progress ( 8, 0.500,  10000): 100.0% ... Training loss: 0.064 ... Validation loss: 0.176
+Progress ( 8, 0.500,  50000): 100.0% ... Training loss: 0.051 ... Validation loss: 0.173
+Progress ( 8, 0.500, 100000): 100.0% ... Training loss: 0.050 ... Validation loss: 0.234
+Progress ( 8, 0.500, 500000): 100.0% ... Training loss: 0.042 ... Validation loss: 0.244
+Progress ( 9, 0.001,    100):  99.0% ... Training loss: 1.237 ... Validation loss: 1.352
+Progress ( 9, 0.001,    500):  99.8% ... Training loss: 0.898 ... Validation loss: 1.449
+Progress ( 9, 0.001,   1000):  99.9% ... Training loss: 0.898 ... Validation loss: 1.381
+Progress ( 9, 0.001,   5000): 100.0% ... Training loss: 0.885 ... Validation loss: 1.342
+Progress ( 9, 0.001,  10000): 100.0% ... Training loss: 0.722 ... Validation loss: 1.259
+Progress ( 9, 0.001,  50000): 100.0% ... Training loss: 0.454 ... Validation loss: 0.736
+Progress ( 9, 0.001, 100000): 100.0% ... Training loss: 0.309 ... Validation loss: 0.487
+Progress ( 9, 0.001, 500000): 100.0% ... Training loss: 0.223 ... Validation loss: 0.380
+Progress ( 9, 0.005,    100):  99.0% ... Training loss: 1.010 ... Validation loss: 1.327
+Progress ( 9, 0.005,    500):  99.8% ... Training loss: 0.858 ... Validation loss: 1.301
+Progress ( 9, 0.005,   1000):  99.9% ... Training loss: 0.814 ... Validation loss: 1.261
+Progress ( 9, 0.005,   5000): 100.0% ... Training loss: 0.619 ... Validation loss: 1.038
+Progress ( 9, 0.005,  10000): 100.0% ... Training loss: 0.374 ... Validation loss: 0.618
+Progress ( 9, 0.005,  50000): 100.0% ... Training loss: 0.258 ... Validation loss: 0.428
+Progress ( 9, 0.005, 100000): 100.0% ... Training loss: 0.236 ... Validation loss: 0.393
+Progress ( 9, 0.005, 500000): 100.0% ... Training loss: 0.060 ... Validation loss: 0.153
+Progress ( 9, 0.010,    100):  99.0% ... Training loss: 0.978 ... Validation loss: 1.336
+Progress ( 9, 0.010,    500):  99.8% ... Training loss: 0.795 ... Validation loss: 1.267
+Progress ( 9, 0.010,   1000):  99.9% ... Training loss: 0.734 ... Validation loss: 1.241
+Progress ( 9, 0.010,   5000): 100.0% ... Training loss: 0.460 ... Validation loss: 0.751
+Progress ( 9, 0.010,  10000): 100.0% ... Training loss: 0.310 ... Validation loss: 0.488
+Progress ( 9, 0.010,  50000): 100.0% ... Training loss: 0.246 ... Validation loss: 0.410
+Progress ( 9, 0.010, 100000): 100.0% ... Training loss: 0.134 ... Validation loss: 0.252
+Progress ( 9, 0.010, 500000): 100.0% ... Training loss: 0.052 ... Validation loss: 0.162
+Progress ( 9, 0.050,    100):  99.0% ... Training loss: 0.830 ... Validation loss: 1.272
+Progress ( 9, 0.050,    500):  99.8% ... Training loss: 0.599 ... Validation loss: 1.027
+Progress ( 9, 0.050,   1000):  99.9% ... Training loss: 0.430 ... Validation loss: 0.704
+Progress ( 9, 0.050,   5000): 100.0% ... Training loss: 0.272 ... Validation loss: 0.445
+Progress ( 9, 0.050,  10000): 100.0% ... Training loss: 0.254 ... Validation loss: 0.434
+Progress ( 9, 0.050,  50000): 100.0% ... Training loss: 0.064 ... Validation loss: 0.154
+Progress ( 9, 0.050, 100000): 100.0% ... Training loss: 0.052 ... Validation loss: 0.191
+Progress ( 9, 0.050, 500000): 100.0% ... Training loss: 0.046 ... Validation loss: 0.139
+Progress ( 9, 0.100,    100):  99.0% ... Training loss: 0.704 ... Validation loss: 1.189
+Progress ( 9, 0.100,    500):  99.8% ... Training loss: 0.413 ... Validation loss: 0.671
+Progress ( 9, 0.100,   1000):  99.9% ... Training loss: 0.312 ... Validation loss: 0.495
+Progress ( 9, 0.100,   5000): 100.0% ... Training loss: 0.246 ... Validation loss: 0.406
+Progress ( 9, 0.100,  10000): 100.0% ... Training loss: 0.106 ... Validation loss: 0.213
+Progress ( 9, 0.100,  50000): 100.0% ... Training loss: 0.054 ... Validation loss: 0.190
+Progress ( 9, 0.100, 100000): 100.0% ... Training loss: 0.053 ... Validation loss: 0.168
+Progress ( 9, 0.100, 500000): 100.0% ... Training loss: 0.045 ... Validation loss: 0.192
+Progress ( 9, 0.500,    100):  99.0% ... Training loss: 0.467 ... Validation loss: 0.761
+Progress ( 9, 0.500,    500):  99.8% ... Training loss: 0.267 ... Validation loss: 0.449
+Progress ( 9, 0.500,   1000):  99.9% ... Training loss: 0.253 ... Validation loss: 0.417
+Progress ( 9, 0.500,   5000): 100.0% ... Training loss: 0.071 ... Validation loss: 0.209
+Progress ( 9, 0.500,  10000): 100.0% ... Training loss: 0.061 ... Validation loss: 0.183
+Progress ( 9, 0.500,  50000): 100.0% ... Training loss: 0.049 ... Validation loss: 0.147
+Progress ( 9, 0.500, 100000): 100.0% ... Training loss: 0.051 ... Validation loss: 0.219
+Progress ( 9, 0.500, 500000): 100.0% ... Training loss: 0.050 ... Validation loss: 0.168
+Progress (10, 0.001,    100):  99.0% ... Training loss: 1.028 ... Validation loss: 1.352
+Progress (10, 0.001,    500):  99.8% ... Training loss: 1.021 ... Validation loss: 1.304
+Progress (10, 0.001,   1000):  99.9% ... Training loss: 0.934 ... Validation loss: 1.398
+Progress (10, 0.001,   5000): 100.0% ... Training loss: 0.767 ... Validation loss: 1.233
+Progress (10, 0.001,  10000): 100.0% ... Training loss: 0.652 ... Validation loss: 1.227
+Progress (10, 0.001,  50000): 100.0% ... Training loss: 0.450 ... Validation loss: 0.740
+Progress (10, 0.001, 100000): 100.0% ... Training loss: 0.307 ... Validation loss: 0.492
+Progress (10, 0.001, 500000): 100.0% ... Training loss: 0.248 ... Validation loss: 0.420
+Progress (10, 0.005,    100):  99.0% ... Training loss: 0.972 ... Validation loss: 1.291
+Progress (10, 0.005,    500):  99.8% ... Training loss: 0.863 ... Validation loss: 1.316
+Progress (10, 0.005,   1000):  99.9% ... Training loss: 0.803 ... Validation loss: 1.279
+Progress (10, 0.005,   5000): 100.0% ... Training loss: 0.585 ... Validation loss: 0.998
+Progress (10, 0.005,  10000): 100.0% ... Training loss: 0.420 ... Validation loss: 0.697
+Progress (10, 0.005,  50000): 100.0% ... Training loss: 0.268 ... Validation loss: 0.439
+Progress (10, 0.005, 100000): 100.0% ... Training loss: 0.247 ... Validation loss: 0.411
+Progress (10, 0.005, 500000): 100.0% ... Training loss: 0.067 ... Validation loss: 0.144
+Progress (10, 0.010,    100):  99.0% ... Training loss: 0.908 ... Validation loss: 1.346
+Progress (10, 0.010,    500):  99.8% ... Training loss: 0.735 ... Validation loss: 1.168
+Progress (10, 0.010,   1000):  99.9% ... Training loss: 0.711 ... Validation loss: 1.253
+Progress (10, 0.010,   5000): 100.0% ... Training loss: 0.445 ... Validation loss: 0.728
+Progress (10, 0.010,  10000): 100.0% ... Training loss: 0.303 ... Validation loss: 0.483
+Progress (10, 0.010,  50000): 100.0% ... Training loss: 0.205 ... Validation loss: 0.365
+Progress (10, 0.010, 100000): 100.0% ... Training loss: 0.137 ... Validation loss: 0.275
+Progress (10, 0.010, 500000): 100.0% ... Training loss: 0.052 ... Validation loss: 0.150
+Progress (10, 0.050,    100):  99.0% ... Training loss: 0.773 ... Validation loss: 1.282
+Progress (10, 0.050,    500):  99.8% ... Training loss: 0.572 ... Validation loss: 0.944
+Progress (10, 0.050,   1000):  99.9% ... Training loss: 0.428 ... Validation loss: 0.706
+Progress (10, 0.050,   5000): 100.0% ... Training loss: 0.268 ... Validation loss: 0.439
+Progress (10, 0.050,  10000): 100.0% ... Training loss: 0.244 ... Validation loss: 0.413
+Progress (10, 0.050,  50000): 100.0% ... Training loss: 0.061 ... Validation loss: 0.175
+Progress (10, 0.050, 100000): 100.0% ... Training loss: 0.053 ... Validation loss: 0.164
+Progress (10, 0.050, 500000): 100.0% ... Training loss: 0.043 ... Validation loss: 0.232
+Progress (10, 0.100,    100):  99.0% ... Training loss: 0.708 ... Validation loss: 1.224
+Progress (10, 0.100,    500):  99.8% ... Training loss: 0.442 ... Validation loss: 0.726
+Progress (10, 0.100,   1000):  99.9% ... Training loss: 0.301 ... Validation loss: 0.478
+Progress (10, 0.100,   5000): 100.0% ... Training loss: 0.237 ... Validation loss: 0.398
+Progress (10, 0.100,  10000): 100.0% ... Training loss: 0.129 ... Validation loss: 0.255
+Progress (10, 0.100,  50000): 100.0% ... Training loss: 0.051 ... Validation loss: 0.154
+Progress (10, 0.100, 100000): 100.0% ... Training loss: 0.049 ... Validation loss: 0.189
+Progress (10, 0.100, 500000): 100.0% ... Training loss: 0.044 ... Validation loss: 0.136
+Progress (10, 0.500,    100):  99.0% ... Training loss: 0.415 ... Validation loss: 0.695
+Progress (10, 0.500,    500):  99.8% ... Training loss: 0.278 ... Validation loss: 0.435
+Progress (10, 0.500,   1000):  99.9% ... Training loss: 0.247 ... Validation loss: 0.400
+Progress (10, 0.500,   5000): 100.0% ... Training loss: 0.068 ... Validation loss: 0.146
+Progress (10, 0.500,  10000): 100.0% ... Training loss: 0.055 ... Validation loss: 0.155
+Progress (10, 0.500,  50000): 100.0% ... Training loss: 0.047 ... Validation loss: 0.183
+Progress (10, 0.500, 100000): 100.0% ... Training loss: 0.044 ... Validation loss: 0.451
+Progress (10, 0.500, 500000): 100.0% ... Training loss: 0.040 ... Validation loss: 0.186
