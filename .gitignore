@@ -18,3 +18,6 @@ face_generation/data/
 */*.tar.gz
 .idea
 
+image-classification/cifar-10-batches-py/
+intro-to-tflearn/mnist/
+
